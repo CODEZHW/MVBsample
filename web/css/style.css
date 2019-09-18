@@ -1,0 +1,49 @@
+
+.carousel-inner img {
+    width:100%;
+    height:100%;
+}
+.jumbotron {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+#demo {
+    width:100%;
+    height: 264px;
+}
+.row {
+    height: 264px;
+}
+.left {
+    float: left;
+    width: 70%;
+}
+.right {
+    float: left;
+    width: 30%;
+}
+.card {
+    height: 264px;
+}
+.carousel-inner {
+    height: 264px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+}
+.jumheight1 {
+    height: 140px;
+}
+.jumheight2 {
+    height: 260px;
+}
+.end_name {
+    margin-bottom: 5px;
+}
+.footer2 {
+    padding-top: 210px;
+    text-align: center;
+}
